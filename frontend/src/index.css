@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.leaflet-container {
+  height: 100%;
+  width: 100%;
+}
+
+/* Custom risk colors */
+.bg-risk-low { @apply bg-emerald-500; }
+.bg-risk-medium { @apply bg-yellow-400; }
+.bg-risk-high { @apply bg-orange-500; }
+.bg-risk-critical { @apply bg-red-600; }
+
+.text-risk-low { @apply text-emerald-500; }
+.text-risk-medium { @apply text-yellow-500; }
+.text-risk-high { @apply text-orange-500; }
+.text-risk-critical { @apply text-red-600; }

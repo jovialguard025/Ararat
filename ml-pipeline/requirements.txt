@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+shap
+matplotlib
+seaborn
+joblib
+geopandas
+rasterio # Optional for demo mode
