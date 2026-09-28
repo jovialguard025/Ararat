@@ -29,6 +29,6 @@ app.use(errorHandler);
 
 // Start server
 app.listen(PORT, () => {
-    console.log(`[SERVER] LandGuard AI Backend running on port ${PORT}`);
+    console.log(`[SERVER] ARARAT Backend running on port ${PORT}`);
     console.log(`[SERVER] Alert Thresholds - HIGH: ${process.env.ALERT_THRESHOLD_HIGH || 0.7}, CRITICAL: ${process.env.ALERT_THRESHOLD_CRITICAL || 0.85}`);
 });

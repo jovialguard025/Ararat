@@ -1,4 +1,4 @@
-# LandGuard AI
+# ARARAT (Advanced Real-time Automated Risk Assessment and Terrain-monitoring System)
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
@@ -6,7 +6,7 @@
 
 ## Description
 
-LandGuard AI is a comprehensive geospatial early-warning and landslide risk monitoring system designed for North Eastern India. It features a novel **Two-Stage Hybrid Risk Architecture** enhanced with **Explainable AI (XAI)** to provide transparent, interpretable risk assessments and timely alerts.
+ARARAT is a comprehensive geospatial early-warning and landslide risk monitoring system designed for North Eastern India. It features a novel **Two-Stage Hybrid Risk Architecture** enhanced with **Explainable AI (XAI)** to provide transparent, interpretable risk assessments and timely alerts.
 
 ## Architecture Overview
 

@@ -100,7 +100,7 @@ function App() {
             <div className="w-8 h-8 bg-emerald-500 rounded-md flex items-center justify-center font-bold text-white shadow-sm">
               LG
             </div>
-            <h1 className="text-xl font-bold tracking-tight">LandGuard AI</h1>
+            <h1 className="text-xl font-bold tracking-tight">ARARAT</h1>
             <span className="text-xs text-slate-400 ml-2 hidden sm:inline-block">| Landslide Risk Monitor</span>
           </div>
           <nav className="flex gap-6">
@@ -138,7 +138,7 @@ function App() {
       </main>
 
       <footer className="bg-white border-t border-slate-200 h-12 flex items-center justify-center text-xs text-slate-500">
-        &copy; {new Date().getFullYear()} LandGuard AI Team. Geospatial Risk Assessment Platform.
+        &copy; {new Date().getFullYear()} ARARAT Team. Geospatial Risk Assessment Platform.
       </footer>
     </div>
   );
